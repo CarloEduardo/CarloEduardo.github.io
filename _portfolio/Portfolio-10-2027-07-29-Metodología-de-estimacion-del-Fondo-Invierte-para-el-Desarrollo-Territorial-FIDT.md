@@ -11,7 +11,7 @@ permalink: /portfolio/Portfolio-10-2027-07-29-Metodología-de-estimacion-del-Fon
 excerpt_separator: <!--more-->
 toc: true
 header:
- og_image: "posts/geom-sf-facet/shared_legend_right-1.png"
+ og_image: "posts/Portfolio-10-2027-07-29-Metodología-de-estimacion-del-Fondo-Invierte-para-el-Desarrollo-Territorial-FIDT/shared_legend_right-1.png"
 tags:
   - GIS
   - visualization

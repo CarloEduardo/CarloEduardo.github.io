@@ -11,7 +11,7 @@ permalink: /portfolio/Portfolio-03-2026-06-05-Construccion-de-indicadores-a-part
 excerpt_separator: <!--more-->
 toc: true
 header:
- og_image: "posts/geom-sf-facet/shared_legend_right-1.png"
+ og_image: "posts/Portfolio-03-2026-06-05-Construccion-de-indicadores-a-partir-de-la-ENAHO/shared_legend_right-1.png"
 tags:
   - GIS
   - visualization

@@ -11,7 +11,7 @@ permalink: /portfolio/Portfolio-02-2026-05-06-ENDES
 excerpt_separator: <!--more-->
 toc: true
 header:
- og_image: "posts/geom-sf-facet/shared_legend_right-1.png"
+ og_image: "posts/Portfolio-02-2026-05-06-ENDES/shared_legend_right-1.png"
 tags:
   - GIS
   - visualization

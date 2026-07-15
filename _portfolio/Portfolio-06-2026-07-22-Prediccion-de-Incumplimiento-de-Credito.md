@@ -11,7 +11,7 @@ permalink: /portfolio/Portfolio-06-2026-07-22-Prediccion-de-Incumplimiento-de-Cr
 excerpt_separator: <!--more-->
 toc: true
 header:
- og_image: "posts/geom-sf-facet/shared_legend_right-1.png"
+ og_image: "posts/Portfolio-06-2026-07-22-Prediccion-de-Incumplimiento-de-Credito/shared_legend_right-1.png"
 tags:
   - GIS
   - visualization

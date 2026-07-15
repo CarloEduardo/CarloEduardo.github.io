@@ -11,7 +11,7 @@ permalink: /portfolio/Portfolio-09-2027-07-28-Analisis-de-accesibilidad-geografi
 excerpt_separator: <!--more-->
 toc: true
 header:
- og_image: "posts/geom-sf-facet/shared_legend_right-1.png"
+ og_image: "posts/Portfolio-09-2027-07-28-Analisis-de-accesibilidad-geografica-Routes API-y-DBSCAN/shared_legend_right-1.png"
 tags:
   - GIS
   - visualization

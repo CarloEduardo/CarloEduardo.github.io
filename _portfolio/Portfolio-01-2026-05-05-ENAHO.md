@@ -11,7 +11,7 @@ permalink: /portfolio/Portfolio-01-2026-05-05-ENAHO
 excerpt_separator: <!--more-->
 toc: true
 header:
- og_image: "posts/geom-sf-facet/shared_legend_right-1.png"
+ og_image: "posts/Portfolio-01-2026-05-05-ENAHO/shared_legend_right-1.png"
 tags:
   - GIS
   - visualization

@@ -11,7 +11,7 @@ permalink: /portfolio/Portfolio-05-2026-07-15-Prediccion-de-Abandono-de-Clientes
 excerpt_separator: <!--more-->
 toc: true
 header:
- og_image: "posts/geom-sf-facet/shared_legend_right-1.png"
+ og_image: "posts/Portfolio-05-2026-07-15-Prediccion-de-Abandono-de-Clientes/shared_legend_right-1.png"
 tags:
   - GIS
   - visualization

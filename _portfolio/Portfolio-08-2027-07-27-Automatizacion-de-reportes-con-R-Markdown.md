@@ -11,7 +11,7 @@ permalink: /portfolio/Portfolio-08-2027-07-27-Automatizacion-de-reportes-con-R-M
 excerpt_separator: <!--more-->
 toc: true
 header:
- og_image: "posts/geom-sf-facet/shared_legend_right-1.png"
+ og_image: "posts/Portfolio-08-2027-07-27-Automatizacion-de-reportes-con-R-Markdown/shared_legend_right-1.png"
 tags:
   - GIS
   - visualization

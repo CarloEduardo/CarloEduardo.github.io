@@ -11,7 +11,7 @@ permalink: /portfolio/Portfolio-07-2027-07-26-Proyectos-en-Power-Bi
 excerpt_separator: <!--more-->
 toc: true
 header:
- og_image: "posts/geom-sf-facet/shared_legend_right-1.png"
+ og_image: "posts/Portfolio-07-2027-07-26-Proyectos-en-Power-Bi/shared_legend_right-1.png"
 tags:
   - GIS
   - visualization

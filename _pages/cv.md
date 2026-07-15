@@ -99,7 +99,7 @@ Service and leadership
 
 <iframe src="/files/CV-Carlos-Eduardo-Torres-Garcia-Policy-Analyst.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-Puedes descargar una copia en PDF de mi CV [here](/files/CV-Carlos-Eduardo-Torres-Garcia-Policy-Analyst.pdf).
+Puedes descargar una copia en PDF de mi CV [aquí](/files/CV-Carlos-Eduardo-Torres-Garcia-Policy-Analyst.pdf).
 
 
 

@@ -131,8 +131,8 @@ F --> G[Construir URL de descarga]
 G --> H[Descargar archivo ZIP]
 H --> I[Descomprimir archivo ZIP]
 I --> J{¿Extracción exitosa?}
-J -- Sí --> K[Continuar con el siguiente módulo]
-J -- No --> L[Conservar archivo ZIP<br/>Mostrar mensaje de extracción manual]
+J -- Sí --> K[Continuar con el<br/>siguiente módulo]
+J -- No --> L[Conservar archivo ZIP<br/>Mostrar mensaje de<br/>extracción manual]
 L --> K
 K --> M{¿Quedan módulos?}
 M -- Sí --> F
@@ -140,7 +140,6 @@ M -- No --> N{¿Quedan años?}
 N -- Sí --> D
 N -- No --> O([Fin])
 ```
-
 *Elaboración propia.* <br>
 ***Nota:** El diagrama muestra el flujo de ejecución del script, incluyendo la iteración por años y módulos, la construcción de la URL de descarga, la obtención de los archivos desde el portal oficial del INEI y su extracción automática. En caso de que un archivo comprimido presente inconsistencias, el script conserva el archivo `.zip` y notifica al usuario que la extracción debe realizarse manualmente.*
 

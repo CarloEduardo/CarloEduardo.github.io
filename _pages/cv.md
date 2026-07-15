@@ -87,7 +87,6 @@ Proyectos
 {% endfor %}
 </ul>
 
-
 {% comment %}  
 Publicaciones
 ======

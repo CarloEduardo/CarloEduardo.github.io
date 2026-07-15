@@ -73,13 +73,27 @@ Cursos Complementarios
   * [Taller de Evaluación de Impacto – Nivel Intermedio](/files/cv/02.-Certificado-de-Taller-de-Evaluacion-de-Impacto-Nivel-Intermedio.pdf) — *CISEPA – PUCP, 2018*
   * [Taller de Investigación Social Aplicada usando STATA](/files/cv/01.-Certificado-de-Taller-de-Investigacion-Social-Aplicada-usando-STATA.pdf) — *CISEPA – PUCP, 2018*
 
+
+Proyectos
+======
+{% include base_path %}
+{% assign ordered_projects = site.portfolio | sort: "order_number" %}
+
+<ul>
+{% for post in ordered_projects %}
+  <li>
+    <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+
+{% comment %}  
 Publicaciones
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-{% comment %}  
 Talks
 ======
   <ul>{% for post in site.talks reversed %}

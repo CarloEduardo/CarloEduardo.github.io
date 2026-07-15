@@ -136,6 +136,10 @@ N -- "No" --> O([Fin])
 *Elaboración propia.* <br>
 ***Nota:** El diagrama muestra el flujo de ejecución del script, incluyendo la iteración por años y módulos, la construcción de la URL de descarga, la obtención de los archivos desde el portal oficial del INEI y su extracción automática. En caso de que un archivo comprimido presente inconsistencias, el script conserva el archivo `.zip` y notifica al usuario que la extracción debe realizarse manualmente.*
 
+La siguiente figura muestra la interfaz del portal de Microdatos del INEI para la descarga de la ENDES. Se resaltan el año de la encuesta, el código de la encuesta y el código del módulo, que constituyen los parámetros utilizados por el script para construir automáticamente las URL de descarga de cada archivo.
+
+<img src="/images/posts/Portfolio-02-2026-05-06-ENDES/ENDES-Download-2.png" style="display: block; margin: auto;" />
+
 ## 5. Resultado 📂<a id="5"></a>
 Al finalizar la ejecución se obtiene una estructura similar a la siguiente:
 

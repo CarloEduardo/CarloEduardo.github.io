@@ -18,13 +18,7 @@ tags:
   - peacekeeping
 ---
 
-I recently needed to create a choropleth of a few different countries
-for a project on targeting of UN peacekeepers by non-state armed actors
-I’m working on. A
-[choropleth](https://en.wikipedia.org/wiki/Choropleth_map) is a type of
-thematic map where data are aggregated up from smaller areas (or
-discrete points) to larger ones and then visualized using different
-colors to represent different numeric values.
+Colección de dashboards desarrollados en Power BI para proyectos de educación, programas sociales y análisis de negocios. Incluye indicadores de gestión, monitoreo de resultados, análisis geoespacial y reportes interactivos para apoyar la toma de decisiones
 
 <!--more-->
 

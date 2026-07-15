@@ -18,13 +18,7 @@ tags:
   - peacekeeping
 ---
 
-I recently needed to create a choropleth of a few different countries
-for a project on targeting of UN peacekeepers by non-state armed actors
-I’m working on. A
-[choropleth](https://en.wikipedia.org/wiki/Choropleth_map) is a type of
-thematic map where data are aggregated up from smaller areas (or
-discrete points) to larger ones and then visualized using different
-colors to represent different numeric values.
+Modelo de aprendizaje automático desarrollado en Python para predecir el incumplimiento de crédito de clientes. El proyecto incluye preprocesamiento de datos, análisis exploratorio, ingeniería de características, entrenamiento y evaluación de modelos de clasificación, optimización de hiperparámetros e interpretación de resultados mediante métricas de desempeño.
 
 <!--more-->
 

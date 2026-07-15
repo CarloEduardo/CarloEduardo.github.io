@@ -71,7 +71,7 @@ Cursos Complementarios
   * [Python para Economistas](https://drive.google.com/file/d/1omRPI3GFlZKefkDFeebbGKUR2hBtakYI/view?usp=sharing) — *Grupo LAMBDA S.A.C., 2019*
   * [Gestión de Proyectos Sociales para ONGs y Organizaciones de la Sociedad Civil](https://drive.google.com/file/d/14VQo0jDZ8tpjPK-cf_Y67MvtgjMSH8jD/view?usp=sharing) — *BID, 2019*
   * [Taller de Evaluación de Impacto – Nivel Intermedio](https://drive.google.com/file/d/1SdmhWkf_S-UEydizGzBo4aCxwVxhueud/view?usp=sharing) — *CISEPA – PUCP, 2018*
-  * [Taller de Investigación Social Aplicada usando STATA](https://drive.google.com/file/d/1OLuvZ67xUicr1GUz5BRW-oAcLVTje5s-/view?usp=sharing) — *CISEPA – PUCP, 2018*
+  * [Taller de Investigación Social Aplicada usando STATA](/files/cv/01. Certificado de Taller de Investigación Social Aplicada usando STATA.pdf) — *CISEPA – PUCP, 2018*
 
 Publicaciones
 ======
@@ -100,3 +100,6 @@ Service and leadership
 <iframe src="/files/CV-Carlos-Eduardo-Torres-Garcia-Policy-Analyst.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 Puedes descargar una copia en PDF de mi CV [here](/files/CV-Carlos-Eduardo-Torres-Garcia-Policy-Analyst.pdf).
+
+
+

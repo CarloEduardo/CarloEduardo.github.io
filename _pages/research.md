@@ -1,33 +1,17 @@
 ---
 layout: archive
-title: "Research"
+title: "Investigación"
 permalink: /research/
 author_profile: true
 header:
   og_image: "research/ecdf.png"
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
+Mi investigación se centra en dos áreas principales: comprender cómo la geografía influye en el comportamiento de los actores antes, durante y después de los conflictos civiles, y desarrollar nuevas herramientas para mejorar el estudio de las instituciones (tanto formales como informales) en contextos de paz y conflicto. Una línea de investigación explora cómo los territorios habitados por distintos grupos étnicos influyen en la formación de grupos rebeldes y condicionan su relación con el Estado. Mi interés por la geografía también se refleja en proyectos sobre conflictos activos, como el análisis de los ataques contra fuerzas de paz de las Naciones Unidas por parte de grupos insurgentes, la victimización de la población civil tras la conquista territorial por grupos rebeldes y la violencia comunal en contextos de alta fragilidad.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+Mi segunda línea de investigación se enfoca en el desarrollo de nuevas métricas para medir instituciones mediante métodos cuantitativos avanzados. Uno de estos proyectos utiliza modelos bayesianos de teoría de respuesta al ítem (Bayesian Item Response Theory) para estimar la solidez de los acuerdos de paz como una variable latente, evitando el sesgo de postratamiento que supone emplear la duración de los acuerdos como un indicador de su fortaleza. En otros trabajos, aplico técnicas de aprendizaje no supervisado a más de mil millones de registros de comercio internacional a nivel de producto para medir la interdependencia económica y el intercambio económico ilícito.
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+En una nueva línea de investigación, aprovecho datos provenientes de redes sociales para estudiar la participación en movimientos extremistas en distintos contextos, con el objetivo de comprender mejor las etapas tempranas del proceso de radicalización.
 
 <nbsp>
 

@@ -38,10 +38,13 @@ Para ejecutar este proyecto únicamente se requiere:
 ```bash
 git clone https://github.com/CarloEduardo/01-Web-Scraping-ENAHO-2004-2025.git
 ```
+
 3. Establecer como directorio de trabajo la carpeta clonada.
 ```
 cd \E:\07. GitHub\01-Web-Scraping-ENAHO-2004-2025\
 ```
+
+### 2.2. Uso
 
 1. Abrir el archivo 
 ```bash
@@ -122,24 +125,32 @@ El siguiente diagrama resume el flujo de ejecución del script para descargar y 
 ```mermaid
 flowchart TD
 
-A([Inicio]) --> B[Definir directorio de trabajo]
-B --> C[Crear carpeta principal ENAHO]
-C --> D{{Iterar por años<br/>2004–2025}}
-D --> E[Obtener Código de Encuesta]
-E --> F{{Iterar por módulos}}
-F --> G[Construir URL de descarga]
-G --> H[Descargar archivo ZIP]
-H --> I[Descomprimir archivo ZIP]
-I --> J{¿Extracción exitosa?}
-J -- Sí --> K[Continuar con el<br/>siguiente módulo]
-J -- No --> L[Conservar archivo ZIP<br/>Mostrar mensaje de<br/>extracción manual]
+A([Inicio]) --> B["Definir directorio<br/>de trabajo"]
+B --> C["Crear carpeta principal<br/>ENAHO"]
+
+C --> D["Iterar por años<br/>2004–2025"]
+D --> E["Obtener código<br/>de encuesta"]
+
+E --> F["Iterar por módulos"]
+F --> G["Construir URL<br/>de descarga"]
+G --> H["Descargar archivo ZIP"]
+H --> I["Descomprimir archivo ZIP"]
+
+I --> J{"¿Extracción<br/>exitosa?"}
+
+J -- "Sí" --> K["Continuar con el<br/>siguiente módulo"]
+J -- "No" --> L["Conservar archivo ZIP<br/>y mostrar mensaje de<br/>extracción manual"]
+
 L --> K
-K --> M{¿Quedan módulos?}
-M -- Sí --> F
-M -- No --> N{¿Quedan años?}
-N -- Sí --> D
-N -- No --> O([Fin])
+
+K --> M{"¿Quedan<br/>módulos?"}
+M -- "Sí" --> F
+M -- "No" --> N{"¿Quedan<br/>años?"}
+
+N -- "Sí" --> D
+N -- "No" --> O([Fin])
 ```
+
 *Elaboración propia.* <br>
 ***Nota:** El diagrama muestra el flujo de ejecución del script, incluyendo la iteración por años y módulos, la construcción de la URL de descarga, la obtención de los archivos desde el portal oficial del INEI y su extracción automática. En caso de que un archivo comprimido presente inconsistencias, el script conserva el archivo `.zip` y notifica al usuario que la extracción debe realizarse manualmente.*
 

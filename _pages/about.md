@@ -17,6 +17,8 @@ En este sitio encontrarás mi portafolio de proyectos, experiencia profesional y
 
 ## [Publicaciones](publications)
 
+## [Investigaciones](research)
+
 ## [Proyectos](portfolio)
 
 ## [Blog](year-archive)

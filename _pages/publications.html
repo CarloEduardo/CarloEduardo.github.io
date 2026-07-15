@@ -52,14 +52,4 @@ En este sitio comparto algunos de mis proyectos, publicaciones técnicas y recur
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %} 
-
-<br>
-
 {% include base_path %}
-
-{% assign ordered_pages = site.portfolio | sort:"order_number" %}
-
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}

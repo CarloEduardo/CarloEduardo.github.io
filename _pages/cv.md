@@ -113,7 +113,38 @@ Service and leadership
 
 CV
 ======
-<iframe src="/files/CV-Carlos-Eduardo-Torres-Garcia-Policy-Analyst.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe 
+  src="/files/CV-Carlos-Eduardo-Torres-Garcia-Policy-Analyst.pdf" 
+  width="100%" 
+  height="500" 
+  frameborder="no" border="0" marginwidth="0" marginheight="0">
+  </iframe>
+
+Opción 1 (la que más recomiendo): abrir el PDF en una pestaña nueva
+<p>
+<a class="btn btn--primary"
+  src="/files/CV-Carlos-Eduardo-Torres-Garcia-Policy-Analyst.pdf"
+   target="_blank">
+📄 Ver CV en PDF
+</a>
+</p>
+
+
+Opción 2: ocultar la barra de herramientas del PDF
+<iframe
+  src="/files/CV-Carlos-Eduardo-Torres-Garcia-Policy-Analyst.pdf"
+  width="100%"
+  height="900">
+</iframe>
+
+Opción 3: usar PDF.js ⭐ (la mejor experiencia)
+<iframe
+src="/files/CV-Carlos-Eduardo-Torres-Garcia-Policy-Analyst.pdf"
+width="100%"
+height="900"
+style="border:none;">
+</iframe>
+
 
 Puedes descargar una copia en PDF de mi CV [aquí](/files/CV-Carlos-Eduardo-Torres-Garcia-Policy-Analyst.pdf).
 

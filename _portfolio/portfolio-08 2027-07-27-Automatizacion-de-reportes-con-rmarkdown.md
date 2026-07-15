@@ -1,5 +1,5 @@
 ---
-title: 08. Automatizacion-de-reportes-con-rmarkdown
+title: 08. Automatizacion de reportes con Rmarkdown
 output:
   md_document:
     variant: gfm+footnotes

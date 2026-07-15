@@ -1,5 +1,5 @@
 ---
-title: 03. Construcción de indicadores a partir de la ENAHO
+title: 03: Construcción de indicadores a partir de la ENAHO
 output:
   md_document:
     variant: gfm+footnotes

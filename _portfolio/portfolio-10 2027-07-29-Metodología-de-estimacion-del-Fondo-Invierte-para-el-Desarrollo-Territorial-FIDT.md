@@ -1,5 +1,5 @@
 ---
-title: 10. Metodología para la Estimación del Fondo Invierte para el Desarrollo Territorial (FIDT)
+title: 10: Metodología para la Estimación del Fondo Invierte para el Desarrollo Territorial (FIDT)
 output:
   md_document:
     variant: gfm+footnotes

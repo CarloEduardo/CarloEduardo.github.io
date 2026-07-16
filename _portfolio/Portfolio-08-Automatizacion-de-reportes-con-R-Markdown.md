@@ -7,11 +7,11 @@ output:
 knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
 date: 2027-07-26
-permalink: /portfolio/Portfolio-08-2027-07-27-Automatizacion-de-reportes-con-R-Markdown
+permalink: /portfolio/Portfolio-08-Automatizacion-de-reportes-con-R-Markdown
 excerpt_separator: <!--more-->
 toc: true
 header:
- og_image: "posts/Portfolio-08-2027-07-27-Automatizacion-de-reportes-con-R-Markdown/shared_legend_right-1.png"
+ og_image: "posts/Portfolio-08-Automatizacion-de-reportes-con-R-Markdown/shared_legend_right-1.png"
 tags:
   - GIS
   - visualization

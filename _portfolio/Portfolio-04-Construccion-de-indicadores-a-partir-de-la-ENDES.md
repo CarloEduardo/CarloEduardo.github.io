@@ -7,11 +7,11 @@ output:
 knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
 date: 2026-06-06
-permalink: /portfolio/Portfolio-04-2026-06-06-Construccion-de-indicadores-a-partir-de-la-ENDES
+permalink: /portfolio/Portfolio-04-Construccion-de-indicadores-a-partir-de-la-ENDES
 excerpt_separator: <!--more-->
 toc: true
 header:
- og_image: "posts/Portfolio-04-2026-06-06-Construccion-de-indicadores-a-partir-de-la-ENDES/shared_legend_right-1.png"
+ og_image: "posts/Portfolio-04-Construccion-de-indicadores-a-partir-de-la-ENDES/shared_legend_right-1.png"
 tags:
   - GIS
   - visualization

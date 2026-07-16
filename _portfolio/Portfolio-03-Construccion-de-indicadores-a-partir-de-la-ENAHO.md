@@ -7,11 +7,11 @@ output:
 knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
 date: 2026-06-05
-permalink: /portfolio/Portfolio-03-2026-06-05-Construccion-de-indicadores-a-partir-de-la-ENAHO
+permalink: /portfolio/Portfolio-03-Construccion-de-indicadores-a-partir-de-la-ENAHO
 excerpt_separator: <!--more-->
 toc: true
 header:
- og_image: "posts/Portfolio-03-2026-06-05-Construccion-de-indicadores-a-partir-de-la-ENAHO/shared_legend_right-1.png"
+ og_image: "posts/Portfolio-03-Construccion-de-indicadores-a-partir-de-la-ENAHO/shared_legend_right-1.png"
 tags:
   - GIS
   - visualization

@@ -7,11 +7,11 @@ output:
 knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
 date: 2027-07-26
-permalink: /portfolio/Portfolio-10-2027-07-29-Metodología-de-estimacion-del-Fondo-Invierte-para-el-Desarrollo-Territorial-FIDT
+permalink: /portfolio/Portfolio-10-Metodología-de-estimacion-del-Fondo-Invierte-para-el-Desarrollo-Territorial-FIDT
 excerpt_separator: <!--more-->
 toc: true
 header:
- og_image: "posts/Portfolio-10-2027-07-29-Metodología-de-estimacion-del-Fondo-Invierte-para-el-Desarrollo-Territorial-FIDT/shared_legend_right-1.png"
+ og_image: "posts/Portfolio-10-Metodología-de-estimacion-del-Fondo-Invierte-para-el-Desarrollo-Territorial-FIDT/shared_legend_right-1.png"
 tags:
   - GIS
   - visualization

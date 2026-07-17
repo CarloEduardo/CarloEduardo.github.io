@@ -18,7 +18,6 @@ url                      : https://carloeduardo.github.io # The base hostname & 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CarloEduardo/CarloEduardo.github.io"
 
-
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
@@ -36,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=zPT_3boAAAAJ&hl=es"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : #"https://orcid.org/yourorcidurl"
@@ -46,7 +45,6 @@ author:
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
-
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -129,17 +127,15 @@ atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
-
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &Carlo4_Eduardo
 facebook:
   username               :
   app_id                 :

@@ -46,14 +46,11 @@ Experiencia profesional
   * Elaboré reportes de seguimiento, análisis psicométricos y evaluaciones de encuestas aplicadas a becarios y egresados de Beca 18, generando insumos técnicos para el monitoreo.
   * Brindé apoyo en el seguimiento de productos de consultoría y modelos de acompañamiento.
 
-Habilidades e Intereses
+Habilidades técnicas
 ======
-* **Programación:** Python, R, SQL
-* **Business Intelligence (BI):** Power BI, DAX, Power Query, Looker Studio
-* **Analítica de Datos:** Análisis Exploratorio de Datos, Monitoreo de KPI, Desarrollo de Dashboard, Data Storytelling
-* **Machine Learning:** Regression, Classification, Clustering, Predictive Analytics
-* **Data Engineering:** ETL, Data Pipelines, Validación de Datos, Calidad de Datos, Modelado de Datos
-* **Herramientas Especializadas:** Stata, QGIS, ODK, Power Apps, Power Automate, LaTeX
+* **Programación:** Python, R, SQL, Stata, Git, GitHub, Power BI, QGIS, ODK
+* **Ciencia de Datos:** Machine Learning, Modelos Predictivos, Regresión, Clasificación, Clustering, Forecasting, Procesamiento de Lenguaje Natural (NLP), Large Language Models (LLMs)
+* **Estadística y Economía Aplicada:** Evaluación de Impacto, Econometría, Inferencia Estadística, Muestreo, Diseño y Análisis de Encuestas, Modelos Estadísticos
 * **Idiomas:** Español (Nativo), Inglés (B2-IELTS)
 
 Cursos Complementarios
@@ -114,13 +111,13 @@ Service and leadership
 CV
 ======
 <iframe 
-  src="/files/CV-Carlos-Eduardo-Torres-Garcia-Policy-Analyst.pdf" 
+  src="/files/CV-Carlos-Eduardo-Torres-Garcia.pdf" 
   width="100%" 
   height="500" 
   frameborder="no" border="0" marginwidth="0" marginheight="0">
   </iframe>
 
-Puedes descargar una copia en PDF de mi CV [aquí](/files/CV-Carlos-Eduardo-Torres-Garcia-Policy-Analyst.pdf).
+Puedes descargar una copia en PDF de mi CV [aquí](/files/CV-Carlos-Eduardo-Torres-Garcia.pdf).
 
 
 

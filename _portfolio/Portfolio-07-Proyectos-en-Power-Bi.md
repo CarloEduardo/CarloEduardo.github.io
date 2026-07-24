@@ -22,15 +22,12 @@ Colección de dashboards desarrollados en Power BI para proyectos de educación,
 
 <!--more-->
 
-# Proyectos Power BI
-
-## Contenido
+# Contenido
 1. [**Proyecto Plataforma VISIBLE**](#1)
 2. [**Proyecto Observatorio Nacional de la Discapacidad**](#2)
 3. [**Otros Proyectos**](#3)
-___
 
-## Proyecto Plataforma VISIBLE <a id='1'></a>
+# 1. Proyecto Plataforma VISIBLE <a id='1'></a>
 
 **Institución:** Ministerio de la Mujer y Poblaciones Vulnerables - MIMP  
 **Rol:** Consultor (Data Scientist)  
@@ -39,14 +36,15 @@ ___
 **Estado:** Control de calidad (etapa de pruebas)
 ---
 
-### 🎯 Objetivo del Proyecto
+## 1.1. Objetivo del Proyecto 🎯
 
 Construir/estimar indicadores y desarrollar **dashboards** estadísticos para la sección de indicadores de la nueva [**Plataforma VISIBLE**](https://visible.dansantivanezdev.space/) (un espacio implementado por el MIMP para integrar, estandarizar y organizar los observatorios del sector), orientados a consolidar información oficial y facilitar la toma de decisiones, la planificación de políticas públicas y la transparencia institucional.
 
 <!-- 🔗 [Plataforma VISIBLE](https://visible.dansantivanezdev.space/observatorios/discapacidad/estadisticas) (fase prueba) -->
 ---
 
-### 🧮 Estructura del proyecto
+## 1.2. Estructura del proyecto 🧮
+
 Organización del proyecto orientada a reproducibilidad, control de versiones y carga en Power BI:
 
 ```cmd
@@ -67,7 +65,7 @@ Organización del proyecto orientada a reproducibilidad, control de versiones y 
 └───requirements.txt
 ```
 
-### 📌 Indicadores Clave (KPIs) por Temática
+## 1.3. Indicadores Clave (KPIs) por Temática 📌
 
 Indicadores organizados por temáticas poblacionales:  
 - Niñas, Niños y Adolescentes (NNA)  
@@ -97,7 +95,7 @@ Principales desagregaciones:
 > Los dashboards permiten filtros dinámicos por periodo, región, área de residencia y características poblacionales.
 ---
 
-## Proyecto Observatorio Nacional de la Discapacidad <a id='2'></a>
+# 2. Proyecto Observatorio Nacional de la Discapacidad <a id='2'></a>
 
 **Institución:** Consejo Nacional para la Integración de la Persona con Discapacidad - CONADIS  
 **Rol:** Consultor (Data Scientist)  
@@ -106,15 +104,15 @@ Principales desagregaciones:
 **Estado:** En producción
 ---
 
-### 🎯 Objetivo del Proyecto
+## 2.1. Objetivo del Proyecto 🎯
 
 Construir/estimar indicadores y desarrollar **dashboards** estadísticos para la sección [**Discapacidad en cifras**](https://observatorio.conadisperu.gob.pe/discapacidad-en-cifras/) del **Observatorio Nacional de la Discapacidad** una plataforma orientada a brindar información relevante, confiable, oportuna, amigable y accesible en materia de
 discapacidad para las entidades públicas, centros de investigación, entre otros.
 
 🔗 [Observatorio Nacional de la Discapacidad](https://observatorio.conadisperu.gob.pe/)
----
 
-### 🧮 Estructura del proyecto
+## 2.2. Estructura del proyecto 🧮
+
 Organización del proyecto orientada a reproducibilidad, control de versiones y carga en Power BI:
 
 🔗 [Documentación técnica](documentacion.pdf)
@@ -161,7 +159,7 @@ Organización del proyecto orientada a reproducibilidad, control de versiones y 
 └───.venvCONADIS            # Entorno virtual
 ```
 
-### 📌 Indicadores (KPIs)
+## 2.3. Indicadores (KPIs) 📌
 
 Dashboards organizados por temáticas:
 - Situación de las personas con discapacidad: ¿Cómo vamos?  
@@ -181,7 +179,6 @@ Principales desagregaciones:
 - Área de residencia: Urbano / Rural
 - Región: 26 departamentos (incluye Lima metropolitana)
 - Características demográficas.
----
 
 ### 📈 Dashboard (Power BI)
 #### **Situación de las personas con discapacidad: ¿Cómo vamos?**  [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiYmRmM2UyMzAtMzkzMy00MWE2LTlmYmQtMjZjMDI0OGZlYzAzIiwidCI6IjA5OTJkMDkyLTIyZDktNDVhOC05M2EwLTY3NTY4ZGMzMDY4MiIsImMiOjR9)
@@ -195,27 +192,26 @@ Principales desagregaciones:
 
 > Los dashboards permiten filtros dinámicos por periodo, región, área de residencia y características poblacionales.
 
-## Otros Proyectos <a id='3'></a>
+# 3. Otros Proyectos <a id='3'></a>
 
 **Proyecto:** Estadisticas MIMP  
 **Rol:** Data Analyst 
 **Año:** 2021 | 2022  
 **Herramienta principal:** Power BI  
 **Estado:** En producción
----
 
-### 🎯 Objetivo del Proyecto
+## 3.1. Objetivo del Proyecto 🎯
 
 Implementar **dashboards** estadísticos para la sección [**Estadísticas MIMP**](https://www.mimp.gob.pe/omep/estadisticas-tablero-desempenio-NNA.php) para el seguimiento de indicadores y rendición de cuentas sobre los Programas Presupuestales.
 
 🔗 [Estadísticas MIMP](https://www.mimp.gob.pe/omep/estadisticas-mimp.php)
 ---
 
-### 📈 Dashboard (Power BI)
-#### **Programa Presupuestale 117:** Niñas, Niños y Adolescentes (NNA)  [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiODA0YmY2OTEtYTE2ZC00NjM0LWFkYWItOWQ1NWQwMmUwN2RjIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9)
+## 3.2. Dashboard (Power BI) 📈
+### **Programa Presupuestale 117:** Niñas, Niños y Adolescentes (NNA)  [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiODA0YmY2OTEtYTE2ZC00NjM0LWFkYWItOWQ1NWQwMmUwN2RjIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9)
 ![117](03-Power-BI/PP117.gif)
 
-#### **Programa Presupuestale 142:** Personas Adultas Mayores (PAM)   [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiMjI1NzJiZGYtMGYzYi00MDAwLTg3ODgtMDk4ZTJhOTU2MDNlIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9)
+### **Programa Presupuestale 142:** Personas Adultas Mayores (PAM)   [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiMjI1NzJiZGYtMGYzYi00MDAwLTg3ODgtMDk4ZTJhOTU2MDNlIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9)
 ![142](03-Power-BI/PP142.gif)
 
 {% comment %}  

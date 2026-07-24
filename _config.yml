@@ -137,7 +137,7 @@ yandex_site_verification :
 twitter:
   username               : &Carlo4_Eduardo
 facebook:
-  username               :
+  username               : Carlo4.Eduardo
   app_id                 :
   publisher              :
 og_image                 :  # Social media default site image
@@ -149,13 +149,11 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-
 # Analytics
 analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
-
 
 # Reading Files
 include:
@@ -195,14 +193,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -214,7 +210,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
 
 # These settings control the types of collections used by the template
 collections:
@@ -303,13 +298,11 @@ sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins
 plugins:
@@ -328,7 +321,6 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-
 
 # Archives
 #  Type
@@ -357,7 +349,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
 
 # HTML Compression
 # - https://jch.penibelst.de/

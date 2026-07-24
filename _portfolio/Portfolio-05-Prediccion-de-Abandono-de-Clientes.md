@@ -22,7 +22,7 @@ tags:
 Modelo de aprendizaje automático desarrollado en Python para predecir el abandono de clientes (churn). El proyecto abarca limpieza y transformación de datos, análisis exploratorio, selección de variables, tratamiento del desbalance de clases, entrenamiento y comparación de modelos de clasificación, validación cruzada y visualización de resultados mediante un dashboard en Power BI.
 
 <!--more-->
-
+{% comment %}  
 See this simple example, which displays the area of each county in North
 Carolina, from the `sf` package
 [documentation](https://r-spatial.github.io/sf/articles/sf1.html#sfc-simple-feature-geometry-list-column-1).[^1]
@@ -539,3 +539,4 @@ for `plot_grid()`.
 [^6]: If you check out the actual source code of `plot_grid()`, line 9
     shows you that the function is indeed putting `...` ahead of
     `plotlist`: `plots <- c(list(...), plotlist)`.
+{% endcomment %}

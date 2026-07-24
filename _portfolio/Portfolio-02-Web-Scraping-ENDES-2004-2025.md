@@ -165,7 +165,7 @@ Cada carpeta contiene todos los módulos descargados y extraídos para el año c
 En algunos años, determinados archivos ZIP publicados por el INEI presentan inconsistencias que impiden su extracción automática mediante Stata.
 Cuando esto ocurre, el script muestra un mensaje indicando que el archivo debe descomprimirse manualmente. El archivo ZIP descargado se conserva para facilitar este proceso.
 
-## Licencia <a id="9"></a>
+## Licencia <a id="7"></a>
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](/LICENSE) para más detalles.
 
 [**⬆ Volver al inicio**](#top)

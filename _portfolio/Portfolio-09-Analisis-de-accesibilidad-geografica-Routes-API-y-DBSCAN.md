@@ -21,7 +21,7 @@ tags:
 Metodología para analizar la accesibilidad geográfica mediante tiempos de viaje obtenidos con Google Routes API y técnicas de clustering espacial (DBSCAN), aplicable a la planificación territorial y la localización óptima de servicios y negocios.
 
 <!--more-->
-
+{% comment %}  
 See this simple example, which displays the area of each county in North
 Carolina, from the `sf` package
 [documentation](https://r-spatial.github.io/sf/articles/sf1.html#sfc-simple-feature-geometry-list-column-1).[^1]
@@ -538,3 +538,4 @@ for `plot_grid()`.
 [^6]: If you check out the actual source code of `plot_grid()`, line 9
     shows you that the function is indeed putting `...` ahead of
     `plotlist`: `plots <- c(list(...), plotlist)`.
+{% endcomment %}

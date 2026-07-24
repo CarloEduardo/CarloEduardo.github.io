@@ -21,7 +21,7 @@ tags:
 Proyecto para automatizar la generación de reportes dinámicos en PDF, Word y HTML mediante R Markdown, integrando análisis, tablas, gráficos y texto en documentos reproducibles.
 
 <!--more-->
-
+{% comment %}  
 See this simple example, which displays the area of each county in North
 Carolina, from the `sf` package
 [documentation](https://r-spatial.github.io/sf/articles/sf1.html#sfc-simple-feature-geometry-list-column-1).[^1]
@@ -538,3 +538,4 @@ for `plot_grid()`.
 [^6]: If you check out the actual source code of `plot_grid()`, line 9
     shows you that the function is indeed putting `...` ahead of
     `plotlist`: `plots <- c(list(...), plotlist)`.
+{% endcomment %}

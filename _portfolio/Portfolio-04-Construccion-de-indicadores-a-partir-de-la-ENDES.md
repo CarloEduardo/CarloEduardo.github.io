@@ -21,7 +21,7 @@ tags:
 Repositorio en Stata para la construcción de indicadores demográficos y de salud a partir de la Encuesta Demográfica y de Salud Familiar (ENDES). Incluye procesos automatizados de procesamiento, análisis y generación de indicadores.
 
 <!--more-->
-
+{% comment %}  
 See this simple example, which displays the area of each county in North
 Carolina, from the `sf` package
 [documentation](https://r-spatial.github.io/sf/articles/sf1.html#sfc-simple-feature-geometry-list-column-1).[^1]
@@ -538,3 +538,4 @@ for `plot_grid()`.
 [^6]: If you check out the actual source code of `plot_grid()`, line 9
     shows you that the function is indeed putting `...` ahead of
     `plotlist`: `plots <- c(list(...), plotlist)`.
+{% endcomment %}

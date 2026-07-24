@@ -21,6 +21,24 @@ tags:
 Repositorio en Stata para la construcción de indicadores socioeconómicos a partir de la Encuesta Nacional de Hogares (ENAHO). Incluye procesos automatizados de limpieza, transformación y análisis de datos para generar indicadores reproducibles.
 
 <!--more-->
+
+{% comment %}  
+# Contenido
+1. [**Requisitos**](#1)
+2. [**Instalación y uso**](#2)
+3. [**Módulos disponibles**](#3)
+4. [**Funcionamiento del script**](#4)
+5. [**Resultado**](#5)
+6. [**Observaciones**](#6)
+
+
+
+## Licencia <a id="7"></a>
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](/LICENSE) para más detalles.
+
+[**⬆ Volver al inicio**](#top)
+{% endcomment %}
+
 {% comment %}  
 See this simple example, which displays the area of each county in North
 Carolina, from the `sf` package

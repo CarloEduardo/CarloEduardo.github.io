@@ -22,15 +22,23 @@ Script automatizado en Stata para descargar, organizar y extraer los módulos de
 
 <!--more-->
 
-## 1. Requisitos ⚙️ <a id='1'></a>
+# Contenido
+1. [**Requisitos**](#1)
+2. [**Instalación y uso**](#2)
+3. [**Módulos disponibles**](#3)
+4. [**Funcionamiento del script**](#4)
+5. [**Resultado**](#5)
+6. [**Observaciones**](#6)
+
+# 1. Requisitos ⚙️ <a id='1'></a>
 Para ejecutar este proyecto únicamente se requiere:
 - **Stata 16** o superior.
 - Permisos de escritura en el directorio donde se almacenarán los archivos descargados.
 - **Git** (opcional), para clonar el repositorio.
 
-## 2. Instalación y uso 🚀 <a id='2'></a>
+# 2. Instalación y uso 🚀 <a id='2'></a>
 
-### 2.1. Clonar el repositorio
+## 2.1. Clonar el repositorio
 
 1. Abrir una terminal o línea de comandos Git Bash.
 
@@ -44,7 +52,7 @@ git clone https://github.com/CarloEduardo/01-Web-Scraping-ENAHO-2004-2025.git
 cd \E:\07. GitHub\01-Web-Scraping-ENAHO-2004-2025\
 ```
 
-### 2.2. Uso
+## 2.2. Uso
 
 1. Abrir el archivo 
 ```bash
@@ -69,7 +77,7 @@ foreach j in 1 2 3 4 5 {
 
 5. Ejecutar el script.
 
-## 3. Módulos disponibles <a id="3"></a>
+# 3. Módulos disponibles <a id="3"></a>
 
 | **Nro.** | **Módulo** | **Descripción** |
 |---:|---|---|
@@ -106,7 +114,8 @@ foreach j in 1 2 3 4 5 {
 | 31 | Módulo 2081 | Crianza de Mascotas en el Hogar |
 | 32 | Módulo 2082 | Inseguridad Alimentaria |
 
-## 4. Funcionamiento del script <a id="4"></a>
+# 4. Funcionamiento del script <a id="4"></a>
+
 El script realiza automáticamente las siguientes tareas:
 
 1. Crea la estructura de carpetas del proyecto.
@@ -121,7 +130,7 @@ El proceso completo puede resumirse mediante el siguiente flujo:
 
 El siguiente diagrama resume el flujo de ejecución del script para descargar y extraer automáticamente los módulos de la **Encuesta Nacional de Hogares (ENAHO)**:
 
-# Flujo del proceso de descarga y extracción de la ENAHO (2004–2025)
+## Flujo del proceso de descarga y extracción de la ENAHO (2004–2025)
 ```mermaid
 flowchart TD
 
@@ -158,7 +167,7 @@ La siguiente figura muestra la interfaz del portal de Microdatos del INEI para l
 
 <img src="/images/posts/Portfolio-01-Web-Scraping-ENAHO-2004-2025/ENAHO-Download-2.png" style="display: block; margin: auto;" />
 
-## 5. Resultado 📂<a id="5"></a>
+# 5. Resultado 📂<a id="5"></a>
 Al finalizar la ejecución se obtiene una estructura similar a la siguiente:
 
 ```text
@@ -179,11 +188,11 @@ ENAHO/
 ```
 Cada carpeta contiene todos los módulos descargados y extraídos para el año correspondiente.
 
-## 6. Observaciones ⚠️<a id="6"></a>
+# 6. Observaciones ⚠️<a id="6"></a>
 En algunos años, determinados archivos ZIP publicados por el INEI presentan inconsistencias que impiden su extracción automática mediante Stata.
 Cuando esto ocurre, el script muestra un mensaje indicando que el archivo debe descomprimirse manualmente. El archivo ZIP descargado se conserva para facilitar este proceso.
 
-## Licencia <a id="7"></a>
+# Licencia <a id="7"></a>
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](/LICENSE) para más detalles.
 
 [**⬆ Volver al inicio**](#top)

@@ -21,6 +21,25 @@ tags:
 Modelo de aprendizaje automático desarrollado en Python para predecir el incumplimiento de crédito de clientes. El proyecto incluye preprocesamiento de datos, análisis exploratorio, ingeniería de características, entrenamiento y evaluación de modelos de clasificación, optimización de hiperparámetros e interpretación de resultados mediante métricas de desempeño.
 
 <!--more-->
+
+{% comment %}  
+# Contenido
+1. [**Requisitos**](#1)
+2. [**Instalación y uso**](#2)
+3. [**Módulos disponibles**](#3)
+4. [**Funcionamiento del script**](#4)
+5. [**Resultado**](#5)
+6. [**Observaciones**](#6)
+
+
+
+## Licencia <a id="7"></a>
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](/LICENSE) para más detalles.
+
+[**⬆ Volver al inicio**](#top)
+{% endcomment %}
+
+
 {% comment %}  
 See this simple example, which displays the area of each county in North
 Carolina, from the `sf` package
@@ -538,11 +557,4 @@ for `plot_grid()`.
 [^6]: If you check out the actual source code of `plot_grid()`, line 9
     shows you that the function is indeed putting `...` ahead of
     `plotlist`: `plots <- c(list(...), plotlist)`.
-{% endcomment %}
-
-{% comment %}  
-## Licencia <a id="7"></a>
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](/LICENSE) para más detalles.
-
-[**⬆ Volver al inicio**](#top)
 {% endcomment %}

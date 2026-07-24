@@ -23,23 +23,37 @@ Colección de dashboards desarrollados en Power BI para proyectos de educación,
 <!--more-->
 
 # Contenido
-1. [**Proyecto Plataforma VISIBLE**](#1)
+1. [**Tablero de Servicios Educativos**](#1)
 2. [**Proyecto Observatorio Nacional de la Discapacidad**](#2)
 3. [**Otros Proyectos**](#3)
 
 # 1. Proyecto Plataforma VISIBLE <a id='1'></a>
 
-**Institución:** Ministerio de la Mujer y Poblaciones Vulnerables - MIMP  
+**Institución:** Ministerio de Educación - MINEDU  
 **Rol:** Consultor (Data Scientist)  
-**Año:** 2025 - 2026  
+**Año:** 2026 
 **Herramienta principal:** SQL, Power BI, Python, STATA, Git/GitHub  
-**Estado:** Control de calidad (etapa de pruebas)
+**Estado:** En producción
 
 ## 1.1. Objetivo del Proyecto 🎯
 
 Construir/estimar indicadores y desarrollar **dashboards** estadísticos para la sección de indicadores de la nueva [**Plataforma VISIBLE**](https://visible.dansantivanezdev.space/) (un espacio implementado por el MIMP para integrar, estandarizar y organizar los observatorios del sector), orientados a consolidar información oficial y facilitar la toma de decisiones, la planificación de políticas públicas y la transparencia institucional.
 
 <!-- 🔗 [Plataforma VISIBLE](https://visible.dansantivanezdev.space/observatorios/discapacidad/estadisticas) (fase prueba) -->
+https://app.powerbi.com/view?r=eyJrIjoiYWUyNmU5YzEtM2QxMC00NDg0LTg0MTktMTllOTdkNTMwMjM1IiwidCI6IjE3OWJkZGE4LWQ5NjQtNDNmZi1hZDNiLTY3NDE4NmEyZmEyOCIsImMiOjR9
+
+### 📈 Dashboard (Padrón de Servicios Educativos) [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiYWUyNmU5YzEtM2QxMC00NDg0LTg0MTktMTllOTdkNTMwMjM1IiwidCI6IjE3OWJkZGE4LWQ5NjQtNDNmZi1hZDNiLTY3NDE4NmEyZmEyOCIsImMiOjR9)
+
+### **Portada del Tablero de Padrón de Servicios Educativos** 
+![VISIBLE](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/01-Power-BI/Tablero_01_Portada.png)
+### **Inicio 1**
+![VISIBLE](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/01-Power-BI/Tablero_02_Inicio_1.png)
+### **Inicio 2**
+![VISIBLE](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/01-Power-BI/Tablero_03_Inicio_2.png)
+### **Estadísticas Generales**
+![VISIBLE](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/01-Power-BI/Tablero_04_General.png)
+### **Estadísticas por I.E.**
+![VISIBLE](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/01-Power-BI/Tablero_05_Estadisticas.png)
 
 ## 1.2. Estructura del proyecto 🧮
 
@@ -91,6 +105,8 @@ Principales desagregaciones:
 ![VISIBLE](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/01-Power-BI/EN.gif)
 
 > Los dashboards permiten filtros dinámicos por periodo, región, área de residencia y características poblacionales.
+
+{% comment %}  
 
 # 2. Proyecto Observatorio Nacional de la Discapacidad <a id='2'></a>
 
@@ -208,6 +224,7 @@ Implementar **dashboards** estadísticos para la sección [**Estadísticas MIMP*
 
 ### **Programa Presupuestale 142:** Personas Adultas Mayores (PAM)   [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiMjI1NzJiZGYtMGYzYi00MDAwLTg3ODgtMDk4ZTJhOTU2MDNlIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9)
 ![142](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/03-Power-BI/PP142.gif)
+{% endcomment %}
 
 ## Licencia <a id="7"></a>
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](/LICENSE) para más detalles.

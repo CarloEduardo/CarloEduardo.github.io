@@ -88,7 +88,7 @@ Principales desagregaciones:
 ---
 
 ### 📈 Dashboard (Programas Presupuestales) [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiYjdiYzAwZDItZWZjNi00ZDY4LTkzNmQtMDdjZmMxOWRiYzdkIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9&pageName=5a7dac000b9e16b97ac8)
-![VISIBLE](01-Power-BI/PP0117_N.gif)
+![VISIBLE](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/01-Power-BI/PP0117_N.gif)
 
 ### 📈 Dashboard (Políticas Multisectoriales) [🔗ver](https://visible.dansantivanezdev.space/observatorios/discapacidad/estadisticas)
 ![VISIBLE](01-Power-BI/EN.gif)
@@ -182,13 +182,13 @@ Principales desagregaciones:
 
 ### 📈 Dashboard (Power BI)
 #### **Situación de las personas con discapacidad: ¿Cómo vamos?**  [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiYmRmM2UyMzAtMzkzMy00MWE2LTlmYmQtMjZjMDI0OGZlYzAzIiwidCI6IjA5OTJkMDkyLTIyZDktNDVhOC05M2EwLTY3NTY4ZGMzMDY4MiIsImMiOjR9)
-![Cómo vamos](02-Power-BI/DEC.gif)
+![Cómo vamos](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/02-Power-BI/DEC.gif)
 
 #### **Infracciones bajo la lupa: ¿Qué estamos fiscalizando?**   [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiNDU3ZDBjYWEtODBiMi00OGZiLWIzNGQtZmNlZjA1ZGZmMWIxIiwidCI6IjA5OTJkMDkyLTIyZDktNDVhOC05M2EwLTY3NTY4ZGMzMDY4MiIsImMiOjR9)
-![Qué estamos fiscalizando](02-Power-BI/FIS.gif)
+![Qué estamos fiscalizando](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/02-Power-BI/FIS.gif)
 
 #### **Explora el Registro del CONADIS: ¿Cuántas personas con discapacidad están registradas en el RNPCD?**   [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiNmJjYTIyMTQtOTY4Mi00YTYxLTg1MzgtYWFjODk4ZmQwZWI3IiwidCI6IjA5OTJkMDkyLTIyZDktNDVhOC05M2EwLTY3NTY4ZGMzMDY4MiIsImMiOjR9)
-![Registro](02-Power-BI/REG.gif)
+![Registro](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/02-Power-BI/REG.gif)
 
 > Los dashboards permiten filtros dinámicos por periodo, región, área de residencia y características poblacionales.
 
@@ -209,10 +209,10 @@ Implementar **dashboards** estadísticos para la sección [**Estadísticas MIMP*
 
 ## 3.2. Dashboard (Power BI) 📈
 ### **Programa Presupuestale 117:** Niñas, Niños y Adolescentes (NNA)  [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiODA0YmY2OTEtYTE2ZC00NjM0LWFkYWItOWQ1NWQwMmUwN2RjIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9)
-![117](03-Power-BI/PP117.gif)
+![117](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/03-Power-BI/PP117.gif)
 
 ### **Programa Presupuestale 142:** Personas Adultas Mayores (PAM)   [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiMjI1NzJiZGYtMGYzYi00MDAwLTg3ODgtMDk4ZTJhOTU2MDNlIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9)
-![142](03-Power-BI/PP142.gif)
+![142](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/03-Power-BI/PP142.gif)
 
 {% comment %}  
 See this simple example, which displays the area of each county in North

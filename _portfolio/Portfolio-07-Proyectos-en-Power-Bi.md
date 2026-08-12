@@ -24,10 +24,11 @@ Colección de dashboards desarrollados en Power BI para proyectos de educación,
 
 # Contenido
 1. [**Tablero de Servicios Educativos**](#1)
-2. [**Proyecto Observatorio Nacional de la Discapacidad**](#2)
-3. [**Otros Proyectos**](#3)
+2. [**Tablero de Estadísticas de Calidad Educativa**](#2)
+3. [**Tablero del Sistema Integrado de Administración Financiera**](#3)
+4. [**Tablero de Colegios Digitales**](#4)
 
-# 1. Proyecto Plataforma VISIBLE <a id='1'></a>
+# 1. Proyecto de Servicios Educativos <a id='1'></a>
 
 **Institución:** Ministerio de Educación - MINEDU
 **Rol:** Consultor (Data Scientist)
@@ -37,12 +38,77 @@ Colección de dashboards desarrollados en Power BI para proyectos de educación,
 
 ## Objetivo del Proyecto 🎯
 
-Construir/estimar indicadores y desarrollar **dashboards** estadísticos para la sección de indicadores de la nueva [**Plataforma VISIBLE**](https://visible.dansantivanezdev.space/) (un espacio implementado por el MIMP para integrar, estandarizar y organizar los observatorios del sector), orientados a consolidar información oficial y facilitar la toma de decisiones, la planificación de políticas públicas y la transparencia institucional.
+Procesar, analizar y visualizar la información del [**Padrón de Servicios Educativos y Programas del Ministerio de Educación**](https://escale.minedu.gob.pe/uee/-/document_library_display/GMv7/view/958881), mediante el desarrollo de un **dashboard en Power BI** que permita caracterizar los servicios educativos a nivel nacional según su ubicación geográfica, nivel o modalidad, tipo de gestión, área geográfica y otras características relevantes.
+
+El tablero busca facilitar la consulta y análisis de información oficial para el **seguimiento de la oferta de servicios educativos y la toma de decisiones basada en evidencia**.
+
 
 ### 📈 Dashboard (Tablero de Servicios Educativos) [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiYmRkZDkyZGQtMWU1OC00ZTk1LTg0OGEtMWY0MDdmNGY3NmVjIiwidCI6IjE3OWJkZGE4LWQ5NjQtNDNmZi1hZDNiLTY3NDE4NmEyZmEyOCIsImMiOjR9)
-![VISIBLE](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/Tablero-de-Servicios-Educativos.gif)
+![VISIBLE](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/01-Power-BI/Tablero-de-Servicios-Educativos.gif)
 
-> Los dashboards permiten filtros dinámicos por periodo, región, área de residencia y características poblacionales.
+> El dashboard permite realizar filtros dinámicos por departamento, provincia, distrito, DRE/UGEL, nivel o modalidad, tipo de gestión, área geográfica y otras características de los servicios educativos.
+
+# 2. Proyecto de Estadísticas de Calidad Educativa <a id='2'></a>
+
+**Institución:** Ministerio de Educación - MINEDU
+**Rol:** Consultor (Data Scientist)
+**Año:** 2026
+**Herramienta principal:** Power BI, Python, STATA, Git/GitHub
+**Estado:** En producción
+
+## Objetivo del Proyecto 🎯
+
+Procesar, analizar y visualizar [**Estadísticas de Calidad Educativa**](https://escale.minedu.gob.pe/ueetendencias2016), mediante la construcción de bases de datos y el desarrollo de **dashboards en Power BI**, que permitan analizar la evolución y las brechas del sistema educativo en dimensiones como **acceso, permanencia y progreso, logros de aprendizaje, recursos invertidos, entorno de enseñanza y contexto socioeducativo**, facilitando el seguimiento de indicadores y la toma de decisiones basada en evidencia.
+
+### 📈 Dashboard (Estadísticas de Calidad Educativa) [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiMjE5NGIxYmEtNTY2MC00NjlhLWIyYjUtYjNjODRjMjVmODUzIiwidCI6IjE3OWJkZGE4LWQ5NjQtNDNmZi1hZDNiLTY3NDE4NmEyZmEyOCIsImMiOjR9)
+![VISIBLE](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/02-Power-BI/Tablero-de-Estadisticas-de-Calidad-Educativa.gif)
+
+> Los dashboards permiten analizar los indicadores por periodo, ámbito geográfico y dimensiones de la calidad educativa, facilitando la identificación de tendencias y brechas del sistema educativo.
+
+# 3. Proyecto del Sistema Integrado de Administración Financiera <a id='3'></a>
+
+**Institución:** Ministerio de Educación - MINEDU
+**Rol:** Consultor (Data Scientist)
+**Año:** 2026
+**Herramienta principal:** Power BI, Python, STATA, Git/GitHub
+**Estado:** En producción
+
+## Objetivo del Proyecto 🎯
+
+Desarrollar un sistema de análisis y visualización de la ejecución presupuestal del Sector Público, utilizando información pública del [**Sistema Integrado de Administración Financiera (SIAF)**](https://www.mef.gob.pe/es/?option=com_content&language=es-ES&Itemid=100944&lang=es-ES&view=article&id=504) disponible a través del Portal de Transparencia Económica del Ministerio de Economía y Finanzas (MEF).
+
+El proyecto contempla el procesamiento y análisis de información presupuestal para construir indicadores y dashboards interactivos en Power BI, permitiendo realizar el seguimiento de la ejecución del gasto público a diferentes niveles de desagregación, como pliego, unidad ejecutora, sector, nivel de gobierno y ubicación geográfica, entre otras dimensiones disponibles en la fuente.
+
+Para el desarrollo y actualización de los indicadores se emplean las dos fuentes públicas de consulta del MEF:
+
+📊 Fuentes de información
+Consulta diaria – Transparencia Económica del MEF: [🔗 Ver consulta](https://www.mef.gob.pe/es/?option=com_content&language=es-ES&Itemid=100944&lang=es-ES&view=article&id=504)
+Consulta mensual – Transparencia Económica del MEF: [🔗 Ver consulta](https://www.mef.gob.pe/es/?option=com_content&language=es-ES&Itemid=100944&lang=es-ES&view=article&id=504)
+
+
+### 📈 Dashboard (Tablero del Sistema Integrado de Administración Financiera) [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiMjE5NGIxYmEtNTY2MC00NjlhLWIyYjUtYjNjODRjMjVmODUzIiwidCI6IjE3OWJkZGE4LWQ5NjQtNDNmZi1hZDNiLTY3NDE4NmEyZmEyOCIsImMiOjR9)
+![VISIBLE](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/02-Power-BI/Tablero-de-Estadisticas-de-Calidad-Educativa.gif)
+
+> El dashboard permite explorar dinámicamente la ejecución presupuestal mediante filtros y niveles de desagregación, facilitando la comparación entre pliegos, unidades ejecutoras, sectores, niveles de gobierno, ámbitos geográficos y periodos.
+
+# 4. Proyecto de Colegios Digitales <a id='4'></a>
+
+**Institución:** Proyecto con datos simulados
+**Rol:** Consultor (Data Scientist)
+**Año:** 2026
+**Herramienta principal:** Power BI, Python, STATA, Git/GitHub
+**Estado:** En producción
+
+## Objetivo del Proyecto 🎯
+
+Desarrollar un proyecto demostrativo de analítica de datos y visualización para el seguimiento de una iniciativa ficticia denominada **Colegios Digitales**, orientada a reducir las brechas educativas y digitales en instituciones educativas públicas mediante intervenciones de conectividad, equipamiento tecnológico y formación docente.
+
+El proyecto utiliza datos simulados, generados exclusivamente con fines demostrativos, para construir indicadores y dashboards interactivos que permitan analizar la cobertura territorial de la intervención, las instituciones educativas atendidas, los estudiantes y docentes beneficiados y los principales componentes implementados.
+
+### 📈 Dashboard (Tablero de Colegios Digitales) [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiN2EzYjMyOGEtZjA5OS00YjY0LWJiYTAtYmVlZmZlMDkxZTU4IiwidCI6IjE3OWJkZGE4LWQ5NjQtNDNmZi1hZDNiLTY3NDE4NmEyZmEyOCIsImMiOjR9)
+![VISIBLE](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/04-Power-BI/Tablero-de-Colegios-Digitales.gif)
+
+> Nota: Este proyecto constituye una prueba de concepto desarrollada con fines académicos y de portafolio. Los datos utilizados son completamente simulados y no representan información ni resultados oficiales de ninguna institución.
 
 {% comment %}  
 

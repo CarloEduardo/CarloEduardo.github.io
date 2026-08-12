@@ -24,7 +24,7 @@ Modelo de aprendizaje automático desarrollado en Python para predecir el abando
 
 # Predicción del abandono de clientes 🤖
 
-![Predicción del abandono de clientes](images/raw/Portada-abandono-clientes.png)
+![Predicción del abandono de clientes](/images/posts/Portfolio-05-Prediccion-de-Abandono-de-Clientes/Portada-abandono-clientes.png)
 
 Una empresa de telecomunicaciones (Vodafone) desea estimar la probabilidad de que un cliente abandone la compañía. Este proyecto tiene como objetivo desarrollar un modelo de clasificación capaz de predecir si un cliente abandonará el servicio (**churn**) o permanecerá en la empresa.
 
@@ -292,7 +292,7 @@ H --> I([Fin])
         <th> Precisión de los Modelos Entrenados </th>
     </tr>
     <tr>
-        <td><img src="images\processed\Model_Performance_Accuracy.png"/></td>
+        <td><img src="images/posts/Portfolio-05-Prediccion-de-Abandono-de-Clientes/Model_Performance_Accuracy.png"/></td>
     </tr>
 </table>
 

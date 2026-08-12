@@ -24,7 +24,7 @@ Modelo de aprendizaje automático desarrollado en Python para predecir el incump
 
 # Predicción del Incumplimiento de Pago de Tarjetas de Crédito 💳
 
-![Predicción de Incumplimiento de Credito](images/raw/portada-endeudamiento.png)
+![Predicción de Incumplimiento de Credito](images/posts/Portfolio-06-Prediccion-de-Incumplimiento-de-Credito/portada-endeudamiento.png)
 
 ## Descripción del Proyecto 📌
 
@@ -362,7 +362,7 @@ El siguiente gráfico de barras presenta un resumen de los resultados obtenidos 
         <th>Precisión de los Modelos Entrenados</th>
     </tr>
     <tr>
-        <td><img src="images/processed/results.svg"/></td>
+        <td><img src="images/posts/Portfolio-06-Prediccion-de-Incumplimiento-de-Credito/results.svg"/></td>
     </tr>
 </table>
 

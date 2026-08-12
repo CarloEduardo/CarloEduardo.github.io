@@ -111,13 +111,11 @@ Service and leadership
 CV
 ======
 <iframe 
-  src="/files/CV-Carlos-Eduardo-Torres-Garcia.pdf" 
+  src="/files/CV-Carlos-Eduardo-Torres Garcia-Spanish.pdf" 
   width="100%" 
   height="500" 
   frameborder="no" border="0" marginwidth="0" marginheight="0">
   </iframe>
 
-Puedes descargar una copia en PDF de mi CV [aquí](/files/CV-Carlos-Eduardo-Torres-Garcia.pdf).
-
-
-
+Puedes descargar una copia en PDF de mi CV en **español** [aquí](/files/CV-Carlos-Eduardo-Torres-Garcia-Spanish.pdf).
+Puedes descargar una copia en PDF de mi CV en **inglés** [aquí](/files/CV-Carlos-Eduardo-Torres-Garcia-English.pdf).

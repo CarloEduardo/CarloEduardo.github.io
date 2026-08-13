@@ -30,11 +30,11 @@ Colección de dashboards desarrollados en Power BI para proyectos de educación,
 
 # 1. Proyecto de Servicios Educativos <a id='1'></a>
 
-**Institución:** Ministerio de Educación - MINEDU
-**Rol:** Consultor (Data Scientist)
-**Año:** 2026
-**Herramienta principal:** Power BI, Python, STATA, Git/GitHub
-**Estado:** En producción
+**Institución:** Ministerio de Educación - MINEDU<br>
+**Rol:** Consultor (Data Scientist)<br>
+**Año:** 2026<br>
+**Herramienta principal:** Power BI, Python, STATA, Git/GitHub<br>
+**Estado:** En producción<br>
 
 ## Objetivo del Proyecto 🎯
 
@@ -50,28 +50,28 @@ El tablero busca facilitar la consulta y análisis de información oficial para 
 
 # 2. Proyecto de Estadísticas de Calidad Educativa <a id='2'></a>
 
-**Institución:** Ministerio de Educación - MINEDU
-**Rol:** Consultor (Data Scientist)
-**Año:** 2026
-**Herramienta principal:** Power BI, Python, STATA, Git/GitHub
-**Estado:** En producción
+**Institución:** Ministerio de Educación - MINEDU<br>
+**Rol:** Consultor (Data Scientist)<br>
+**Año:** 2026<br>
+**Herramienta principal:** Power BI, Python, STATA, Git/GitHub<br>
+**Estado:** En producción<br>
 
 ## Objetivo del Proyecto 🎯
 
 Procesar, analizar y visualizar [**Estadísticas de Calidad Educativa**](https://escale.minedu.gob.pe/ueetendencias2016), mediante la construcción de bases de datos y el desarrollo de **dashboards en Power BI**, que permitan analizar la evolución y las brechas del sistema educativo en dimensiones como **acceso, permanencia y progreso, logros de aprendizaje, recursos invertidos, entorno de enseñanza y contexto socioeducativo**, facilitando el seguimiento de indicadores y la toma de decisiones basada en evidencia.
 
-### 📈 Dashboard (Estadísticas de Calidad Educativa) [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiMjE5NGIxYmEtNTY2MC00NjlhLWIyYjUtYjNjODRjMjVmODUzIiwidCI6IjE3OWJkZGE4LWQ5NjQtNDNmZi1hZDNiLTY3NDE4NmEyZmEyOCIsImMiOjR9)
+### 📈 Dashboard (Tablero de Estadísticas de Calidad Educativa) [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiMjE5NGIxYmEtNTY2MC00NjlhLWIyYjUtYjNjODRjMjVmODUzIiwidCI6IjE3OWJkZGE4LWQ5NjQtNDNmZi1hZDNiLTY3NDE4NmEyZmEyOCIsImMiOjR9)
 ![VISIBLE](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/02-Power-BI/Tablero-de-Estadisticas-de-Calidad-Educativa.gif)
 
 > Los dashboards permiten analizar los indicadores por periodo, ámbito geográfico y dimensiones de la calidad educativa, facilitando la identificación de tendencias y brechas del sistema educativo.
 
 # 3. Proyecto del Sistema Integrado de Administración Financiera <a id='3'></a>
 
-**Institución:** Ministerio de Educación - MINEDU
-**Rol:** Consultor (Data Scientist)
-**Año:** 2026
-**Herramienta principal:** Power BI, Python, STATA, Git/GitHub
-**Estado:** En producción
+**Institución:** Ministerio de Economía y Finanzas - MEF<br>
+**Rol:** Consultor (Data Scientist)<br>
+**Año:** 2026<br>
+**Herramienta principal:** Power BI, Python, STATA, Git/GitHub<br>
+**Estado:** En producción<br>
 
 ## Objetivo del Proyecto 🎯
 
@@ -85,7 +85,6 @@ Para el desarrollo y actualización de los indicadores se emplean las dos fuente
 Consulta diaria – Transparencia Económica del MEF: [🔗 Ver consulta](https://www.mef.gob.pe/es/?option=com_content&language=es-ES&Itemid=100944&lang=es-ES&view=article&id=504)
 Consulta mensual – Transparencia Económica del MEF: [🔗 Ver consulta](https://www.mef.gob.pe/es/?option=com_content&language=es-ES&Itemid=100944&lang=es-ES&view=article&id=504)
 
-
 ### 📈 Dashboard (Tablero del Sistema Integrado de Administración Financiera) [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiMjE5NGIxYmEtNTY2MC00NjlhLWIyYjUtYjNjODRjMjVmODUzIiwidCI6IjE3OWJkZGE4LWQ5NjQtNDNmZi1hZDNiLTY3NDE4NmEyZmEyOCIsImMiOjR9)
 ![VISIBLE](/images/posts/Portfolio-07-Proyectos-en-Power-Bi/02-Power-BI/Tablero-de-Estadisticas-de-Calidad-Educativa.gif)
 
@@ -93,11 +92,11 @@ Consulta mensual – Transparencia Económica del MEF: [🔗 Ver consulta](https
 
 # 4. Proyecto de Colegios Digitales <a id='4'></a>
 
-**Institución:** Proyecto con datos simulados
-**Rol:** Consultor (Data Scientist)
-**Año:** 2026
-**Herramienta principal:** Power BI, Python, STATA, Git/GitHub
-**Estado:** En producción
+**Institución:** Proyecto con datos simulados<br>
+**Rol:** Consultor (Data Scientist)<br>
+**Año:** 2026<br>
+**Herramienta principal:** Power BI, Python, STATA, Git/GitHub<br>
+**Estado:** En producción<br>
 
 ## Objetivo del Proyecto 🎯
 

@@ -82,13 +82,13 @@ Para ejecutar este proyecto se requiere:
 Abrir una terminal o Git Bash y ejecutar:
 
 ```bash
-git clone https://github.com/CarloEduardo/03-Construccion-de-indicadores-a-partir-de-la-ENAHO.git
+git clone https://github.com/CarloEduardo/04-Construccion-de-indicadores-a-partir-de-la-ENDES.git
 ```
 
 Luego ingresar al directorio del proyecto:
 
 ```bash
-cd "E:\07. GitHub\03-Construccion-de-indicadores-a-partir-de-la-ENAHO"
+cd "E:\07. GitHub\04-Construccion-de-indicadores-a-partir-de-la-ENDES"
 ```
 
 ### 4.2. Configurar las rutas
